@@ -5,7 +5,7 @@ server:
 info:
   app:
     name: "Food Service"
-    description: "This is Food Service. We are developing right now"
+    description: "This is Food Service. We are developing right now.keep developing."
     version: "{cipher}0cddc92c63fe9067689441e21118cffd364100109e83cd16df813b5977bfbff29fe390eb62211782bcda26cbe48bc41adfba4d37ef45f4c6bdd17c391066fdf8637bea9b00a77b35ffd6ff7b73d78511
 "
 
